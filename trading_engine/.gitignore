@@ -1,0 +1,6 @@
+data/*.db
+data/*.pkl
+data/*.csv
+__pycache__/
+**/__pycache__/
+*.pyc
